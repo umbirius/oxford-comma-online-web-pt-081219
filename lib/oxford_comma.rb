@@ -7,8 +7,10 @@ if array.length >1
     i+=1
   end 
   string << "and #{array.last}"
-else array.length <2  
+elsif array.length <2  
   string = array[i]
+elsif array.length <3 
+  string = "#{array[i} and #{array[i+1]"
 end 
 p string
 end
