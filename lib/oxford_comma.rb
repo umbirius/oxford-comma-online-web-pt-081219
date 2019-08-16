@@ -10,7 +10,7 @@ if array.length >1
 else array.length <2  
   string = array[i]
 end 
-print string
+p string
 end
 
 oxford_comma(["dog"])
