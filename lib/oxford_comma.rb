@@ -5,7 +5,7 @@ while i<(array.length-1)
   string << "#{array[i]}, "
   i+=1
 end 
-string << ", and #{array.last}"
+string << " and #{array.last}"
 print string
 end
 
