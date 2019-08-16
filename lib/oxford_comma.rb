@@ -13,4 +13,4 @@ end
 print string
 end
 
-oxford_comma(["dog", "cat", "bird"])
+oxford_comma(["dog"])
