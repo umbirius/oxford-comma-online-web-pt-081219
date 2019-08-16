@@ -6,6 +6,7 @@ while i<(array.length-2)
   i+=1
 end 
 string << ", and #{array.last}"
+print string
 end
 
 oxford_comma(["dog", "cat", "bird"])
