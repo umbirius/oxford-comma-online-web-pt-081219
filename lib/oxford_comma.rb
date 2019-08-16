@@ -1,7 +1,7 @@
 def oxford_comma(array)
   i=0
 string =""
-if array.length >1 
+if array.length >2 
   while i<(array.length-1)
     string << "#{array[i]}, "
     i+=1
