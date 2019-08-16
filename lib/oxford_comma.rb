@@ -10,7 +10,7 @@ if array.length >1
 elsif array.length <2  
   string = array[i]
 elsif array.length <3 
-  string = "#{array[i]} and #{array[1]"
+  string = "#{array[i]} and #{array[1]}"
 end 
 p string
 end
