@@ -15,4 +15,4 @@ end
 p string
 end
 
-oxford_comma(["dog"])
+oxford_comma(["dog", "burd"])
